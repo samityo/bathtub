@@ -1,0 +1,8 @@
+.app-wrapper{
+  height: 100vh;
+}
+
+.cell{
+  width: 80px;
+  height: 20px;
+}
